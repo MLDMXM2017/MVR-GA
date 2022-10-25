@@ -1,0 +1,1 @@
+detail information of rules
